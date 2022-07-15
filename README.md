@@ -62,8 +62,10 @@ Here are some ideas to get you started:
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srai98i&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=srai98i&theme=cobalt)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srai98i)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srai98i&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Stats](https://github-readme-stats.vercel.app/api//?username=srai98i&count_private=true&theme=panda)](https://github.com/anuraghazra/github-readme-stats)
 
 
