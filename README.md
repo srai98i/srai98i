@@ -1,9 +1,9 @@
 
 <div align="center" id="badges">
-  <a href="https://linkedin.com/in/simranrai98">
+  <a href="https://linkedin.com/in/simranrai98" target=”_blank”>
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://twitter.com/simdecoder">
+  <a href="https://twitter.com/simdecoder" target=”_blank”>
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=srai98i&style=flat-square&color=blue" alt="profile-views"/>
