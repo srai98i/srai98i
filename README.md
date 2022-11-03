@@ -20,7 +20,7 @@
 <h2 align="center"> :woman_technologist: About Me: </h2>
 
 
-<p align="center">I am currently studying at the School of Code 💻 
+<p align="center">I am a School of Code Grad 💻 
 <br/>I am a Biomedical Sciences graduate using my analytical, problem solving and teamworking skills to build software with other equally passionate developers. I am interested in both front-end and back-end development and am always looking to push myself to work with more technologies and languages! </p>
 
 
